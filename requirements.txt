@@ -1,0 +1,8 @@
+geopandas
+geoviews
+hvplot
+jupyterlab
+osmnx
+pystac_client
+rioxarray
+shapely
