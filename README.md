@@ -10,7 +10,7 @@ Material for the [EGU24 Short Course 6.4](https://meetingorganizer.copernicus.or
 
 ## Run the tutorial
 
-Click on one of the following badges in order to run the tutotial on [Mybinder.org](https://mybinder.org) or Google Colab (a Google account is required for the latter):
+Click on one of the following badges in order to run the tutotial on Mybinder.org or Google Colab (a Google account is required for the latter):
 
 TODO: add badges
 
