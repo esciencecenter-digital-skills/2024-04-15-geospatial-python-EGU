@@ -12,7 +12,8 @@ Material for the [EGU24 Short Course 6.4](https://meetingorganizer.copernicus.or
 
 Click on one of the following badges in order to run the tutotial on Mybinder.org or Google Colab (a Google account is required for the latter):
 
-TODO: add badges
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/esciencecenter-digital-skills/2024-04-15-geospatial-python-EGU/HEAD?labpath=geospatial-python.ipynb) 
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esciencecenter-digital-skills/2024-04-15-geospatial-python-EGU/blob/main/geospatial-python.ipynb)
 
 ## Run the tutorial locally
 
