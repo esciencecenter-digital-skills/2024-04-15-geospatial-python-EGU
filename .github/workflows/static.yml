@@ -52,7 +52,7 @@ jobs:
         run: |
           git rm -rf --cached .
           git add -f --ignore-errors index.html figs reveal.js
-          git commit -m "add presentation material"
+          git -c user.name='actions-user' -c user.email='actions-user' commit -m 'add presentation material'      
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
