@@ -2,6 +2,12 @@
 
 Material for the [EGU24 Short Course 6.4](https://meetingorganizer.copernicus.org/EGU24/session/49444)
 
+## Links
+
+* Introductory slides TODO: upload slides and link them here
+* [Jupyter notebook](./geospatial-python.ipynb)  
+* [Presentation (notebook)](https://esciencecenter-digital-skills.github.io/2024-04-15-geospatial-python-EGU)
+
 ## Run the tutorial
 
 Click on one of the following badges in order to run the tutotial on [Mybinder.org](https://mybinder.org) or Google Colab (a Google account is required for the latter):
