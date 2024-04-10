@@ -1,8 +1,10 @@
+dask[dataframe]
 geopandas
-geoviews
-hvplot
 jupyterlab
+matplotlib
+odc-stac
 osmnx
 pystac_client
 rioxarray
-shapely
+xarray
+xarray-spatial
