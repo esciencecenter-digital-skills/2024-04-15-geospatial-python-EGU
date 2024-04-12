@@ -4,7 +4,7 @@ Material for the [EGU24 Short Course 6.4](https://meetingorganizer.copernicus.or
 
 ## Links
 
-* [Introductory slides](https://nlesc.sharepoint.com/:p:/s/instructors/EcC8ymScPVdFmQi_dW_w9jIB2jk-rOmZlwY1_JBJsql4oA?e=xKbKbb)
+* [Introductory slides](./Geospatial_python_SC_EGU_2024.pdf)
 * [Jupyter notebook](./geospatial-python.ipynb)  
 * [Presentation (notebook)](https://esciencecenter-digital-skills.github.io/2024-04-15-geospatial-python-EGU)
 
