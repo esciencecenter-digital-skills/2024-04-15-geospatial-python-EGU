@@ -10,7 +10,7 @@ Material for the [EGU24 Short Course 6.4](https://meetingorganizer.copernicus.or
 
 ## Run the tutorial
 
-Click on one of the following badges in order to run the tutotial on Google Colab (a Google account is required for the latter):
+Click on the following badge to run the tutotial on Google Colab (a Google account is required):
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esciencecenter-digital-skills/2024-04-15-geospatial-python-EGU/blob/main/geospatial-python.ipynb)
 
